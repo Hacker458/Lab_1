@@ -1,0 +1,6 @@
+C:\Users\Hacker\source\repos\MyDllLib\MyDllLib\bin\Release\MyDllLib.dll
+C:\Users\Hacker\source\repos\MyDllLib\MyDllLib\bin\Release\MyDllLib.pdb
+C:\Users\Hacker\source\repos\MyDllLib\MyDllLib\obj\Release\MyDllLib.dll
+C:\Users\Hacker\source\repos\MyDllLib\MyDllLib\obj\Release\MyDllLib.pdb
+C:\Users\Hacker\source\repos\MyDllLib\MyDllLib\obj\Release\MyDllLib.Properties.Resources.resources
+C:\Users\Hacker\source\repos\MyDllLib\MyDllLib\obj\Release\MyDllLib.csproj.GenerateResource.cache

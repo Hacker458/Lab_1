@@ -1,0 +1,4 @@
+C:\Users\Hacker\source\repos\MyDllLib\MyDllLib\bin\Debug\MyDllLib.dll
+C:\Users\Hacker\source\repos\MyDllLib\MyDllLib\bin\Debug\MyDllLib.pdb
+C:\Users\Hacker\source\repos\MyDllLib\MyDllLib\obj\Debug\MyDllLib.dll
+C:\Users\Hacker\source\repos\MyDllLib\MyDllLib\obj\Debug\MyDllLib.pdb

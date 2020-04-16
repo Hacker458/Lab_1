@@ -1,0 +1,6 @@
+C:\Users\Hacker\source\repos\MyDllLib\MyConsole\bin\Release\MyConsole.exe
+C:\Users\Hacker\source\repos\MyDllLib\MyConsole\bin\Release\MyConsole.pdb
+C:\Users\Hacker\source\repos\MyDllLib\MyConsole\obj\Release\MyConsole.csprojAssemblyReference.cache
+C:\Users\Hacker\source\repos\MyDllLib\MyConsole\obj\Release\MyConsole.exe
+C:\Users\Hacker\source\repos\MyDllLib\MyConsole\obj\Release\MyConsole.pdb
+C:\Users\Hacker\source\repos\MyDllLib\MyConsole\obj\Release\MyConsole.csproj.Fody.CopyLocal.cache
